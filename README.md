@@ -1,6 +1,4 @@
 # Exp-1 ATM & BANKING SYSTEM
-# Developed by: KARTHICK V
-# Reg no: 212223040086
 # AIM: 
 To study the problem statement, SRS document and draw all the UML diagrams of ATM System.
 
